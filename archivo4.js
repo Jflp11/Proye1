@@ -1,0 +1,1 @@
+let animales = ['perro', 'gato'];

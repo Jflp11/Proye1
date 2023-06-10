@@ -1,0 +1,1 @@
+let equipos= ['Boca', 'Racing'];
