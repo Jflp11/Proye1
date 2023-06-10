@@ -1,1 +1,1 @@
-let animales = ['perro', 'gato'];
+let animales = ['perro', 'gato','nutria','carpincho','lemur'];
